@@ -1,5 +1,5 @@
 
-
+/* new year party Celebration */
 
 .conteiner{
     height: auto;
@@ -27,4 +27,31 @@
      left: 33%;
      font-weight: 600;
      font-size: 60px;  
+}
+
+.offer{
+    height: auto;
+    position: relative;
+}
+.offer h1{
+    position: absolute;
+    color: red;
+    font-size: 80px;
+    font-weight: bold;
+    padding:;
+}
+
+.offer p{
+    position: absolute;
+    color: red;
+}
+
+.offer h2{
+    position: absolute;
+    color: black;
+}
+
+.offer img{
+    position: relative;
+    padding: 350px;
 }
