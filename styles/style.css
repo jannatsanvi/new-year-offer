@@ -1,0 +1,9 @@
+div{
+    width: 20px;
+    display: flex;
+    height: max-content;
+    color: antiquewhite;
+    display: block;
+    align-items: center;
+    padding-left: 300px;
+}
