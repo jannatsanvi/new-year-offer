@@ -1,9 +1,30 @@
-div{
-    width: 20px;
-    display: flex;
-    height: max-content;
-    color: antiquewhite;
-    display: block;
-    align-items: center;
-    padding-left: 300px;
+
+
+
+.conteiner{
+    height: auto;
+    position: relative;
+}
+
+.conteiner img{
+    width: auto;
+    padding: 70px;
+}
+
+.banner-text h4{
+    position: absolute;
+    color: #FFFFFF;
+    top: 40%;
+    left: 35%;
+    font-weight: 600;
+    font-size: 25px;
+}
+
+.banner-text h1{
+     position: absolute;
+     color: #FFFFFF;
+     top: 43%;
+     left: 33%;
+     font-weight: 600;
+     font-size: 60px;  
 }
